@@ -33,7 +33,7 @@
 6. On test -> On fix, Done.
 7. Done -> Closed, Open.
 
-   <img width="374" alt="Workflow_bug" src="https://github.com/user-attachments/assets/93fb5bf9-cc89-4665-b252-8e843ea4c242">
+  ![Workflow_bug](https://github.com/user-attachments/assets/ea5d69fb-ac13-4f86-8aaf-02af7c931dc9)
 
 
 Остальные задачи должны проходить по упрощённому workflow:
